@@ -1,0 +1,10 @@
+.content::before {
+    content: "";
+    position: absolute;
+    background-color: #10B6CD;
+    width: 40%;
+    height: 100%;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+}

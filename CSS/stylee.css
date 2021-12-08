@@ -20,7 +20,7 @@ body {
     background-color: rgb(252, 250, 245);
     border-radius: 15px;
     width: 960px;
-    height: 60%;
+    height: 55%;
     justify-content: space-between;
     align-items: center;
     position: relative;
@@ -86,6 +86,7 @@ body {
     background-color: #10B6CD;
     border: 1px solid #10B6CD;
     transition: background-color .5s;
+    
 }
 .btn-second:hover {
     background-color: #fff;
@@ -105,7 +106,7 @@ body {
 }
 
 .first-column img {
-    margin-bottom: 15%;
+    margin-bottom: 1%;
     
     
 }
@@ -118,8 +119,11 @@ body {
 }
 
 .second-column img {
-    width: 30%;
+    width: 35%;
+    padding: 20px;
+   
 }
+
 
 .social-media {
     margin: 1rem 0;
